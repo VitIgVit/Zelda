@@ -1,0 +1,24 @@
+Begin Object Class=PaperSprite Name="RunCycle_6"
+   Begin Object Class=BodySetup Name="BodySetup_12"
+   End Object
+   Begin Object Name="BodySetup_12"
+      AggGeom=(BoxElems=((Center=(X=-12.109375,Y=0.000000,Z=5.078125),X=161.718750,Y=10.000000,Z=185.156250)))
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+      DefaultInstance=(CollisionProfileName="BlockAllDynamic",ObjectType=ECC_WorldDynamic)
+   End Object
+   SourceUV=(X=256.000000,Y=256.000000)
+   SourceDimension=(X=256.000000,Y=256.000000)
+   SourceTexture=Texture2D'/Game/120EquipmentIconPack/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas'
+   PixelsPerUnrealUnit=1.280000
+   BodySetup=BodySetup'BodySetup_12'
+   CustomPivotPoint=(X=384.000000,Y=384.000000)
+   bSnapPivotToPixelGrid=False
+   CollisionGeometry=(Shapes=((Vertices=((X=-103.500000,Y=-118.500000),(X=103.500000,Y=-118.500000),(X=103.500000,Y=118.500000),(X=-103.500000,Y=118.500000)),BoxSize=(X=207.000000,Y=237.000000),BoxPosition=(X=368.500000,Y=377.500000))))
+   RenderGeometry=(Shapes=((Vertices=((X=-103.500000,Y=-118.500000),(X=103.500000,Y=-118.500000),(X=103.500000,Y=118.500000),(X=-103.500000,Y=118.500000)),BoxSize=(X=207.000000,Y=237.000000),BoxPosition=(X=368.500000,Y=377.500000))))
+   BakedRenderData(0)=(X=68.750000,Y=97.656250,Z=0.460938,W=0.252930)
+   BakedRenderData(1)=(X=-92.968750,Y=97.656250,Z=0.258789,W=0.252930)
+   BakedRenderData(2)=(X=-92.968750,Y=-87.500000,Z=0.258789,W=0.484375)
+   BakedRenderData(3)=(X=68.750000,Y=-87.500000,Z=0.460938,W=0.484375)
+   BakedRenderData(4)=(X=68.750000,Y=97.656250,Z=0.460938,W=0.252930)
+   BakedRenderData(5)=(X=-92.968750,Y=-87.500000,Z=0.258789,W=0.484375)
+End Object
